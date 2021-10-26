@@ -7,7 +7,7 @@ wget https://git.io/Ji8nq
 
 PGP
 ```
-https://git.io/Ji8n3
+wget https://git.io/Ji8n3
 ```
 
 age
