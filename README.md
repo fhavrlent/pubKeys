@@ -7,7 +7,7 @@ https://git.io/Ji7Up
 
 PGP
 ```
-https://git.io/Ji7U4
+https://git.io/Ji7nc
 ```
 
 age
