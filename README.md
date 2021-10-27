@@ -2,15 +2,15 @@ My public keys
 
 SSH
 ```
-wget https://git.io/Ji8nq
+https://git.io/Ji7Up
 ```
 
 PGP
 ```
-wget https://git.io/Ji8n3
+https://git.io/Ji7U4
 ```
 
 age
 ```
-age1kkdcxhknx0earcj3nffltj2yd0mff33swwej0f5x5kj4gvxepqfs6ucwdy
+https://git.io/Ji7Tu
 ```
